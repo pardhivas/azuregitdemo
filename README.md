@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/pardhivaDevOps/f642d285-c76f-4d7a-b641-0ac28831fb7b/8aceb295-ed18-4b38-bb45-58066239b9b2/_apis/work/boardbadge/2fef5e14-8126-432f-ab32-2af85ee9b161)](https://dev.azure.com/pardhivaDevOps/f642d285-c76f-4d7a-b641-0ac28831fb7b/_boards/board/t/8aceb295-ed18-4b38-bb45-58066239b9b2/Microsoft.RequirementCategory)
 # azuregitdemo
